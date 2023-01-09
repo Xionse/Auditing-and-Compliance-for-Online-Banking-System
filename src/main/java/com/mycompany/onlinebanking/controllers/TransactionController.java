@@ -1,4 +1,4 @@
-//
+// TransactionController class handles requests related to the user's transactions in the online banking system. It has a showTransactions method that retrieves the user's transactions from the TransactionService and displays them in the transactions template. It also has a showAddTransactionForm method that displays the form for adding a new transaction and a addTransaction method that adds a new transaction to the database.
 
 package com.mycompany.onlinebanking.controllers;
 
